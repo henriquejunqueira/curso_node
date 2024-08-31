@@ -7,3 +7,5 @@ const soma = meuModulo.soma;
 // * utiliza a função soma do módulo
 soma(2, 3); // ? 5
 soma(5, 10); // ? 15
+
+//meuModulo.soma(10, 10); // outra forma de chamar a função
