@@ -1,2 +1,3 @@
 - Utilizado pacote minimist do npm;
 - Para instalar o minimist basta rodar o comando `npm install minimist`
+- Rodando o script `node index.js --nome=valor_do_nome --profissao=valor_da_profissao`
