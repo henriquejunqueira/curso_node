@@ -1,2 +1,4 @@
 - Utilizado pacote minimist do npm;
 - Para instalar o minimist basta rodar o comando `npm install minimist`
+- Rodando o projeto: node ./index.js --a=<valor_digitado_pelo_usuario> --b=<valor_digitado_pelo_usuario>
+- Ex: node index.js --a=5 --b=10
